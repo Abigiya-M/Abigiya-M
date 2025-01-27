@@ -23,7 +23,7 @@
 - [Cinema Management System](https://github.com/Abigiya-M/Cinema_managment_system)  
   A platform to manage cinema operations with admin, user, and staff interfaces.
   
-- [Generative AI Chatbot](https://github.com/YourRepoName)  
+- [Generative AI Chatbot](https://github.com/chat_bot)  
   Advanced chatbot with features like authentication, chat history, and OAuth.
 
 
