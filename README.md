@@ -37,10 +37,4 @@
 
 ---
 
-## 🎸 The Mood  
-![Gilfoyle](https://media.giphy.com/media/l2R1aXuMch5tdtdIE/giphy.gif)  
-
----
-
-![Awesome](https://img.shields.io/badge/Made_with-Awesome-brightgreen?logo=markdown)  
 🚀 **Happy Coding & Keep Grinding!** 💪🔥
