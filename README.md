@@ -24,8 +24,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abigiya-M&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abigiya-M&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abigiya-M&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abigiya-M&layout=compact&theme=radical)  
 
 ---
 
