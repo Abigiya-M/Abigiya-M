@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge) 
 
 ### 📚 Data Science & AI Frameworks  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge) ![Mathlib](https://img.shields.io/badge/-Mathlib-FF8800?logo=math&logoColor=white&style=for-the-badge)![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge) ![Metta](https://img.shields.io/badge/-Metta-0099CC?logo=python&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge) ![Mathlib](https://img.shields.io/badge/-Mathlib-FF8800?logo=math&logoColor=white&style=for-the-badge). ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge) ![Metta](https://img.shields.io/badge/-Metta-0099CC?logo=python&logoColor=white&style=for-the-badge)
 
 
 ### 🌐 Web Development  
