@@ -3,12 +3,12 @@
 # Hi, I'm Abigiya
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;AI/ML+Developer;Computer+Science+and+Eng.+Student" alt="Typing SVG" />
-
 <p align="center">
     <strong>Building reliable software systems and applied AI solutions.</strong>
 </p>
 
 </div>
+
 
 ---
 
@@ -79,8 +79,8 @@ I focus on writing clean, maintainable code and building systems that solve real
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abigiya-M&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abigiya-M&layout=compact&theme=transparent&hide_border=true" height="150" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abigiya-M&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abigiya-M&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 
 </div>
 
