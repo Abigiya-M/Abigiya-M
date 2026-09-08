@@ -2,7 +2,7 @@
 
 # Hi, I'm Abigiya
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;AI/ML+Developer;Computer+Science+and+Eng.+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;AI/ML+Engineer;Computer+Science+and+Eng.+Student" alt="Typing SVG" />
 <p align="center">
     <strong>Building reliable software systems and applied AI solutions.</strong>
 </p>
@@ -104,6 +104,4 @@ If you’re working on something interesting or want to connect, feel free to re
 - **Email:** [abigiyayeshua@gmail.com](mailto:abigiyayeshua@gmail.com)  
 - **LinkedIn:** [in/abigiya-mulugeta](https://linkedin.com/in/abigiya-mulugeta)
 
-<p align="center">
-    <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
-</p>
+
